@@ -1,0 +1,33 @@
+.header {
+    background-color: #333;
+    padding: 10px 0;
+  }
+  
+  /* Estilo para a navegação */
+  .nav {
+    text-align: center;
+  }
+  
+  /* Estilo para a lista não ordenada */
+  .nav-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  /* Estilo para os itens de lista */
+  .nav-item {
+    display: inline;
+    margin: 0 10px;
+  }
+  
+  /* Estilo para os links */
+  .nav-link {
+    color: #fff;
+    text-decoration: none;
+    font-size: 18px;
+  }
+  
+  /* Estilo para os links quando estão sendo passados */
+  .nav-link:hover {
+    color: #ffcc00;
+  }

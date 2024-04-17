@@ -1,0 +1,59 @@
+.content {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  /* Estilo para o título do conteúdo */
+  .content-heading {
+    color: #333;
+    font-size: 24px;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  /* Estilo para o texto do conteúdo */
+  .content-text {
+    color: #666;
+    font-size: 16px;
+    line-height: 1.5;
+  }
+  
+  /* Estilo para o contêiner de cards */
+  .card-container {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    flex-wrap: wrap;
+  }
+  
+  /* Estilo para cada card */
+  .card {
+    width: calc(33.333% - 20px);
+    background-color: #f4f4f4;
+    padding: 20px;
+    box-sizing: border-box;
+    margin-top: 20px;
+  }
+  
+  /* Estilo para a imagem do card */
+  .card-image {
+    width: 100%;
+    height: auto;
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  /* Estilo para o título do card */
+  .card-title {
+    color: #333;
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  
+  /* Estilo para o texto do card */
+  .card-text {
+    color: #666;
+    font-size: 14px;
+    line-height: 1.5;
+  }
